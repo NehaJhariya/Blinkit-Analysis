@@ -9,6 +9,16 @@ quick-commerce company: start from a business problem, explore the data,
 answer it with SQL and Python, and package findings into a dashboard and a
 set of actionable recommendations for management.
 
+## 📊 Sample Visualization
+
+### Delivery Time vs Cancellation Rate
+
+This chart shows that longer delivery times are associated with a higher cancellation rate, highlighting the importance of efficient logistics and delivery optimization.
+
+<p align="center">
+  <img src="/images/06_delivery_time_vs_cancellation.png" alt="Delivery Time vs Cancellation" width="800">
+</p>
+
 ## Business Problem
 Blinkit-style quick-commerce depends on fast, reliable delivery to retain
 customers. This project investigates **rising order cancellations and
@@ -106,8 +116,6 @@ Blinkit-Analysis/
 │   └── (15 chart PNGs)
 ├── business_insights.md
 ├── recommendations.md
-├── resume_points.md
-├── interview_questions.md
 ├── generate_data.py
 ├── requirements.txt
 └── README.md
